@@ -265,3 +265,13 @@ h2 {
 		margin-top: 50px;
 	}
 }
+
+@media screen and (max-width: 320px) {
+	.action-wrap .button {
+		padding: 30px 22px;
+		width: 100%;
+	}
+	.action-wrap img {
+		width: 100%;
+	}
+}
